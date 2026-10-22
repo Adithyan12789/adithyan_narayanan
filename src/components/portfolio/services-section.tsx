@@ -25,7 +25,7 @@ export function ServicesSection() {
     <section className="section-shell" aria-labelledby="services-title">
       <div className="container mx-auto w-full max-w-[1480px] px-[var(--gutter)]">
         <Reveal className="section-heading">
-          <p className="eyebrow section-index">05 / Engineering strengths</p>
+          <p className="eyebrow section-index">06 / Engineering strengths</p>
           <h2 id="services-title">From first screen<br /><em>to production.</em></h2>
         </Reveal>
         <div className="service-list">

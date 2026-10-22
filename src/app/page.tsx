@@ -3,6 +3,7 @@
 import { AboutSection } from "@/components/portfolio/about-section";
 import { ApproachSection } from "@/components/portfolio/approach-section";
 import { ContactSection } from "@/components/portfolio/contact-section";
+import { ExperienceSection } from "@/components/portfolio/experience-section";
 import { Footer } from "@/components/portfolio/footer";
 import { HeroSection } from "@/components/portfolio/hero-section";
 import { Navbar } from "@/components/portfolio/navbar";
@@ -21,6 +22,7 @@ export default function HomePage() {
         <ProjectsSection />
         <AboutSection />
         <SkillsSection />
+        <ExperienceSection />
         <ApproachSection />
         <ServicesSection />
         <ContactSection />

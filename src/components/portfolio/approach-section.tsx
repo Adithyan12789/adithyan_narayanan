@@ -12,7 +12,7 @@ export function ApproachSection() {
     <section className="section-shell" aria-labelledby="approach-title">
       <div className="container mx-auto w-full max-w-[1480px] px-[var(--gutter)]">
         <Reveal className="section-heading">
-          <p className="eyebrow section-index">04 / My approach</p>
+          <p className="eyebrow section-index">05 / My approach</p>
           <h2 id="approach-title">Good software is<br /><em>built with intent.</em></h2>
         </Reveal>
         <p className="approach-intro">

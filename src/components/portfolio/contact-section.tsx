@@ -7,7 +7,7 @@ export function ContactSection() {
     <section className="section-shell contact-section" id="contact" aria-labelledby="contact-title">
       <div className="container contact-grid mx-auto w-full max-w-[1480px] px-[var(--gutter)]">
         <Reveal>
-          <p className="eyebrow"><span className="eyebrow-dot" /> 06 / Start a conversation</p>
+          <p className="eyebrow"><span className="eyebrow-dot" /> 07 / Start a conversation</p>
           <h2 className="contact-title" id="contact-title">Have a problem<br /><em>worth solving?</em></h2>
           <p className="contact-description">
             I’m open to exciting development opportunities, collaborative projects, and conversations about building great products.

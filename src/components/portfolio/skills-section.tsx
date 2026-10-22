@@ -1,10 +1,34 @@
 import { Reveal } from "@/components/portfolio/reveal";
 
 const skillGroups = [
-  { title: "Frontend", items: ["React.js", "Next.js", "TypeScript", "JavaScript", "HTML", "CSS", "Tailwind CSS", "Redux Toolkit"] },
-  { title: "Backend", items: ["Node.js", "Express.js", "REST APIs", "JWT", "Socket.io"] },
-  { title: "Database", items: ["MongoDB", "Mongoose", "PostgreSQL", "Firebase"] },
-  { title: "Tools & deployment", items: ["Git", "GitHub", "Postman", "Docker", "Nginx", "Vercel"] },
+  {
+    title: "Languages",
+    items: ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
+  },
+  {
+    title: "Frontend",
+    items: ["React.js", "Next.js", "React Native", "Redux Toolkit", "Tailwind CSS", "Bootstrap", "Responsive Design"],
+  },
+  {
+    title: "Backend",
+    items: ["Node.js", "Express.js", "RESTful APIs", "JWT Authentication", "Role-Based Access Control (RBAC)", "Socket.io"],
+  },
+  {
+    title: "Databases",
+    items: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+  },
+  {
+    title: "Architecture & Concepts",
+    items: ["MVC Pattern", "Repository Pattern", "Service Architecture", "API Integration", "State Management"],
+  },
+  {
+    title: "Cloud & Deployment",
+    items: ["Git & GitHub", "CI/CD Basics", "Docker", "Server Deployment", "Vercel", "Render", "Bunny.net", "Wasabi Cloud Storage"],
+  },
+  {
+    title: "Tools & AI",
+    items: ["Postman", "Figma", "AWS", "Vapi AI", "Google Gemini"],
+  },
 ];
 
 export function SkillsSection() {
