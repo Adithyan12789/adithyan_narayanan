@@ -1,0 +1,7 @@
+allowBuilds:
+  sharp: true
+minimumReleaseAgeExclude:
+  - framer-motion@14.4.0
+  - lucide-react@1.60.0
+  - motion-dom@14.4.0
+  - motion@14.4.0
