@@ -1,3 +1,5 @@
+//page.tsx
+
 import { AboutSection } from "@/components/portfolio/about-section";
 import { ApproachSection } from "@/components/portfolio/approach-section";
 import { ContactSection } from "@/components/portfolio/contact-section";
